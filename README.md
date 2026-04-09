@@ -123,4 +123,4 @@ Originally developed as part of the 42 school curriculum.
 * 42 Network
 * MiniLibX library
 * Wolfenstein 3D for inspiration
-* Developed in collaboration with [Lisa]([https://github.com/username](https://github.com/ft-lisa)
+* Developed in collaboration with [Lisa M.](https://github.com/ft-lisa)
