@@ -88,13 +88,15 @@ C 225,30,0
 
 ## 🎥 Demo
 
+
+![Demo](assets/demo_10fps.gif)
+
+
 Tool used to convert part of the gameplay to GIF:
 
 ```bash
 ffmpeg -i demo.mp4 -vf "fps=10,scale=800:-1:flags=lanczos" demo.gif
 ```
-
-![Demo](assets/demo_10fps.gif)
 
 ---
 
